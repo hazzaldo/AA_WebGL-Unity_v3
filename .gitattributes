@@ -6,3 +6,5 @@ StreamingAssets/art2video.mp4 filter=lfs diff=lfs merge=lfs -text
 StreamingAssets/myFile.mp4 filter=lfs diff=lfs merge=lfs -text
 StreamingAssets/NRT.mp4 filter=lfs diff=lfs merge=lfs -text
 StreamingAssets/NRT.webm filter=lfs diff=lfs merge=lfs -text
+StreamingAssets/art1video.webm filter=lfs diff=lfs merge=lfs -text
+StreamingAssets/art2video.webm filter=lfs diff=lfs merge=lfs -text
